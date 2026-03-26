@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 👋 Hello, I'm Nguyễn Công Hưng
+
+I am a student at **Foreign Trade University (FTU)**, Class of 63. This my mock portfolio for my TIN314 class.
+
+### You can check out my other projects that my team & I made for our final: (https://ftu.lovable.app)
